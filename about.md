@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
+Hello! We are team of 2 people from IISc. Currently we are working for Amazon India as Applied Scientist.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contact us on Linkedin-
+https://www.linkedin.com/in/parul-gupta-10720b89/
+https://www.linkedin.com/in/sachin-mittal-6b366186/
+
