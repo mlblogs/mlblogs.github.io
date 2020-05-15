@@ -3,19 +3,14 @@ layout: post
 title: Change Of Basis
 ---
 
-Here you go - Change Of Basis
-
-
-
-
-
-Displayed equations
 -------------------
+What are the cordinates ? 
+
+let $ x = \left[\matrix{3 \\\ 14 \\\ 17}\right] $ then $(3,14,17)$ are cordinates of $x$.
+
+We can also write  $ x =3 \left[\matrix{1 \\\ 0 \\\ 0}\right] + 14 \left[\matrix{0 \\\ 1 \\\ 0}\right] + 17 \left[\matrix{0 \\\ 0 \\\ 1}\right] $.     That's why $(3,14,17)$ are cordinates of $x$ w.r.t. standatrd basis.
 
 
-$$
-f(x) = 5x^{10}-9x^9 + 77x^8 + 12x^7 + 4x^6 - 8x^5 + 7x^4 + x^3 -2x^2 + 3x + 11.
-$$
 
 ![_config.yml]({{ site.baseurl }}/images/changeOfBasis.jpg)
 
